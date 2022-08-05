@@ -1,7 +1,8 @@
-package by.mirsait.storeapp
+package by.mirsait.storeapp.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import by.mirsait.storeapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
